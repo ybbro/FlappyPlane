@@ -8,8 +8,8 @@
 받아서 유니티에 불러와서 실행할 때 아래 과정을 거치면 정상 구동
 1. 태그 추가: "Map"
 2. Map 태그 부여
-1) Environment 오브젝트의 자식인 ground, ceiling 오브젝트들
-2) Prefabs 폴더/Obstacles 프리팹의 자식 오브젝트 Obstacle0, Obstacle1
+(1) Environment 오브젝트의 자식인 ground, ceiling 오브젝트들
+(2) Prefabs 폴더/Obstacles 프리팹의 자식 오브젝트 Obstacle0, Obstacle1
 
 
 유명한 미니게임 예제 플래피 버드와 동일
